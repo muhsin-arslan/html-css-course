@@ -1,0 +1,16 @@
+/*  */
+@media only screen and (max-width: 1200) {
+  .hero-text {
+    width: 100%;
+    padding: 0 2%;
+  }
+}
+/* Big Tablets 768-1023 */
+@media only screen and (max-width: 1023) {
+}
+/* Small Tablets 481-767 */
+@media only screen and (max-width: 767) {
+}
+/* Small Phones 0-480 */
+@media only screen and (max-width: 480px) {
+}
